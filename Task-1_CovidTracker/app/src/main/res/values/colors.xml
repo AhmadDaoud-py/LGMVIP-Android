@@ -8,10 +8,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="ConfirmedCases">#827717</color>
-    <color name="ActiveCases">#3F51B5</color>
-    <color name="RecoveredCases">#2E7D32</color>
-    <color name="DeadCases">#DD2C00</color>
+    <color name="ConfirmedCases">#FFB701</color>
+    <color name="ActiveCases">#38ACDD</color>
+    <color name="RecoveredCases">#FF4CAF50</color>
+    <color name="DeadCases">#f55c47</color>
+    <color name="background">#FBEBDB</color>
 
 
 </resources>

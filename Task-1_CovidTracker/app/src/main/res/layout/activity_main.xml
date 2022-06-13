@@ -4,18 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@color/background">
 
 
     <TextView
+
         android:id="@+id/textView2"
-        android:layout_width="143dp"
-        android:layout_height="46dp"
-        android:layout_marginStart="135dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="135dp"
-        android:layout_marginBottom="3dp"
-        android:text="@string/lgmheadtext"
+        android:layout_width="385dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="46dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="8dp"
+        android:background="#FB9C74"
+        android:text="LGM June 2022"
         android:textAlignment="center"
         android:textSize="34sp"
         app:layout_constraintBottom_toTopOf="@+id/OtherDataVP"
@@ -46,6 +49,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="5dp"
+        android:background="@color/white"
         android:spinnerMode="dialog"
         app:layout_constraintBottom_toTopOf="@id/StateListRV"
         app:layout_constraintEnd_toEndOf="parent"
