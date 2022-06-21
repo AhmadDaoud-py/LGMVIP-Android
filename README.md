@@ -10,3 +10,8 @@ LetsGrowMore is a ground-based organisation that aims at building the future thr
 # Task 1 :
 
 ![image](https://user-images.githubusercontent.com/40926139/173293454-d987184b-2daf-4633-aacd-ade79ffa852f.png)
+
+# Task 2 :
+
+![image](https://user-images.githubusercontent.com/40926139/174790181-24e0aba4-1bbc-45b0-9595-e3c37826e336.png)
+![image](https://user-images.githubusercontent.com/40926139/174790209-bddf16dd-fd1a-4878-8299-3601189fe1f8.png)
